@@ -1,1 +1,1 @@
-# TFG - Chat_SGX
+# Comunicaciones VoIP cifradas usando IntelSGX
